@@ -29,9 +29,6 @@
   <a href="https://linkedin.com/in/minh-nguyen-van-5a700a255">
     <img src="https://img.shields.io/badge/LinkedIn-Minh%20Nguyen%20Van-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="tel:+84979588611">
-    <img src="https://img.shields.io/badge/Phone-%2B84%20979%20588%20611-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
 </p>
 
 ---
